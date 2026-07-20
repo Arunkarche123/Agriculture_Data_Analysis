@@ -1,4 +1,4 @@
-# 🌾 Agriculture Mandi Price Analytics & Forecasting
+#  Agriculture Mandi Price Analytics & Forecasting
 
 ## 📌 Overview
 
