@@ -101,7 +101,7 @@ Includes:
 - Exploratory Data Analysis
 - SQL Analytics
 - Power BI Dashboard
-- Business Insights
+- Business Insights.
 
 ---
 
